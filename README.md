@@ -113,4 +113,7 @@ Por razones de seguridad:
 
 ---
 
+> Este repositorio contiene únicamente la lógica de automatización y backend.  
+> El frontend y la web pública se gestionan en un repositorio separado.
+
 ⭐ Si te gustó el proyecto, dale una estrella en GitHub!
