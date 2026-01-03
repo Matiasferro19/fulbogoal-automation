@@ -57,7 +57,7 @@ Sistema de chatbot integrado en la página web para responder consultas frecuent
 Envía mensajes automáticos con:
 - 📊 Predicciones del día
 
-![Discord Bot](screenshots/worflow-botfulbogoal-dolar.png)
+![Discord Bot](screenshots/workflow-botfulbogoal-dolar.png)
 
 ![Discord Bot](screenshots/botparti.png)
 
