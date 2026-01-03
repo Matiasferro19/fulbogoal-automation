@@ -74,6 +74,8 @@ Envía mensajes automáticos con:
 - Envío diario de frases inspiradoras
 - Contenido variado y aleatorio
 - Fomenta engagement con la comunidad
+- 
+![Discord Bot](screenshots/workflow-botmotivacional.png)
 
 ![Discord Bot](screenshots/botmoti.png)
 
