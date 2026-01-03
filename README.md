@@ -65,6 +65,10 @@ Envía mensajes automáticos con:
 
 ### 💵 Bot del Dólar
 - Actualización automática del precio del dólar
+- Consulta periódica a una API pública de cotización
+
+**Fuente de datos:**
+https://cdn.moneyconvert.net/api/latest.json
 
 ![Discord Bot](screenshots/botdolar.png)
 
