@@ -78,7 +78,10 @@ https://cdn.moneyconvert.net/api/latest.json
 - Envío diario de frases inspiradoras
 - Contenido variado y aleatorio
 - Fomenta engagement con la comunidad
-- 
+
+**Fuente de datos:**
+http://api.forismatic.com/api/1.0/
+
 ![Discord Bot](screenshots/workflow-botmotivacional.png)
 
 ![Discord Bot](screenshots/botmoti.png)
